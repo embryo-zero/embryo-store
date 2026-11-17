@@ -1834,11 +1834,11 @@ wheels = [
 
 [[package]]
 name = "petl"
-version = "1.7.20"
+version = "1.7.30"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/0b/5a/d820e3ac70424c0d32f67f3e844910c65a7067e7608301b10a7a9cf53688/petl-1.7.20.tar.gz", hash = "sha256:8bb13a7549caa38e72eddf5d68b9310a3255c5b996efda31078ad5e02aef9efa", size = 429983, upload-time = "2026-07-21T01:29:52.793Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/f9/5c/ec50cc70f4d73eb86172b96c67f377d99aeece0f1db983d8aab9582c89b8/petl-1.7.30.tar.gz", hash = "sha256:9621fe7f9d81dafec3bf440496118ec1b288215400810a90f683a02c6d120792", size = 460151, upload-time = "2026-10-17T02:53:55.179Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b2/50/4d7aa56e69374b4f014fa3dd6726cf489e92d700653c299ecd6faf4c019c/petl-1.7.20-py3-none-any.whl", hash = "sha256:dbb0a232e45f6c42cb94af46d2f1ce749228f05f4fefa924a570a60ba5716783", size = 236932, upload-time = "2026-07-21T01:29:51.256Z" },
+    { url = "https://files.pythonhosted.org/packages/62/e7/67a1467722b31a8e2ee2ae9e92ae7fd1338e6f02cffa462461c49aa39fd6/petl-1.7.30-py3-none-any.whl", hash = "sha256:99b7e9a66b68908146f0f590a4bb61a270572bbe33f33dbf5036a234e4fee2de", size = 263769, upload-time = "2026-10-17T02:53:54.013Z" },
 ]
 
 [[package]]
@@ -2738,7 +2738,7 @@ requires-dist = [
     { name = "opentelemetry-sdk", specifier = ">=1.37.0,<2" },
     { name = "opentelemetry-semantic-conventions", specifier = ">=0.58b0,<0.59" },
     { name = "orjson", specifier = ">=3.11.9" },
-    { name = "petl", specifier = "==1.7.20" },
+    { name = "petl", specifier = "==1.7.30" },
     { name = "phonenumberslite", specifier = ">=9.0.36,<10" },
     { name = "pillow", specifier = ">=13.0.0,<14" },
     { name = "prices", specifier = "~=1.0" },
